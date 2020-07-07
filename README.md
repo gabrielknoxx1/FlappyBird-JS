@@ -2,7 +2,7 @@
 
 <h3>Flappy Bird clone game</h3>
 
-<img src="./src/flappy.png" width="250" heigth="200"/>
+<img src="./src/flappy.png" width="150" heigth="100"/>
 
 <h3>Technologies</h3>
 
