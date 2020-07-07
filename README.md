@@ -6,9 +6,9 @@
 
 <h3>Technologies</h3>
 
-Javascript(ES)
-HTML5
-CSS6
+Javascript(ES) <br>
+HTML5 <br>
+CSS3 <br>
 
 
 <h3>How to use</h3>
